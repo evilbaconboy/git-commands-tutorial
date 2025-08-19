@@ -2,8 +2,8 @@
 
 ## Configuring Git
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "Paul Dascanio"
+git config --global user.email "evilbaconboy@gmail.com"
 
 
 ## Initializing a Repository
@@ -13,7 +13,7 @@ git init
 
 ## Cloning a Repository
 
-git clone https://github.com/your-username/repository.git
+git clone https://github.com/evilbaconboy/repository.git
 
 
 ## Staging and Committing Changes
